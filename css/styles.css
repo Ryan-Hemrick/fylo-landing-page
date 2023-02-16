@@ -313,6 +313,9 @@ Testimonial Section Styles
 }
 
 @media (min-width: 50em) {
+  .testimonial {
+    margin-top: 5rem;
+  }
   .testimonial .content__blurb {
     font-size: 1rem;
     width: 80%;
