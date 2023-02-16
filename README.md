@@ -27,7 +27,7 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://serene-chebakia-240af7.netlify.app
 
 
 ## My process
