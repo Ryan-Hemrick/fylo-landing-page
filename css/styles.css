@@ -316,6 +316,9 @@ Testimonial Section Styles
   .testimonial {
     margin-top: 5rem;
   }
+  .testimonial .content__header {
+    margin-bottom: 1.5rem;
+  }
   .testimonial .content__blurb {
     font-size: 1rem;
     width: 80%;
@@ -440,7 +443,7 @@ CTA Section Styles
 
 @media (min-width: 50em) {
   .dark-bg {
-    padding: 4.5rem 0;
+    padding: 5rem 0;
   }
   .cta .content {
     max-width: 520px;
