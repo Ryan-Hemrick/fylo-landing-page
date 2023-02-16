@@ -599,6 +599,10 @@ footer a {
   .footer-logo {
     margin-bottom: 1.75rem;
   }
+  .footer-nav,
+  .company-addresses {
+    margin-bottom: 0;
+  }
   .company-socials ul {
     justify-content: flex-end;
   }
